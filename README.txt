@@ -1,3 +1,6 @@
+Snake, a classic 2D video game where the objective is to control a line as it grows in length while preventing it from hitting the bounds or itself
+
+
 ******************************************  Description of the game:  ******************************************
 	
 makefile:
